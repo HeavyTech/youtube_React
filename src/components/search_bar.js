@@ -6,6 +6,8 @@ class SearchBar extends React.Component {
     this.state = {term: 'hi'};
     }
     
+    
+    //test
     render() {
         return(
             <div className="search-bar">
